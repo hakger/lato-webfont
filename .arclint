@@ -31,7 +31,7 @@
       "exclude" : [
         "(^css/)",
         "(\\.scss$)",
-        "(\\.less$)"	
+        "(\\.less$)"
       ],
       "severity": {
         "5": "disabled"
