@@ -10,25 +10,36 @@ Contains font files, less, scss, and CSS.
   bower install lato-webfont --save
   ```
 
-2. Use [Wiredep](https://github.com/taptapship/wiredep) to wire appropriate dependencies into right places
+2. Use [Wiredep](https://github.com/taptapship/wiredep) to wire appropriate
+dependencies into right places
 
 ## Font Info ##
 
 ### Lato ###
 
 * **Description**
-Lato is a sanserif type­face fam­ily designed in the Sum­mer 2010 by Warsaw-​​based designer Łukasz Dziedzic (“Lato” means “Sum­mer” in Pol­ish). In Decem­ber 2010 the Lato fam­ily was pub­lished under the open-​​source Open Font License by his foundry tyPoland, with sup­port from Google.
+Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based
+designer Łukasz Dziedzic ("Lato" means "Summer" in Polish). In December 2010
+the Lato family was published under the open-source Open Font License by
+his foundry tyPoland, with support from Google.
 
-In 2013 – 2014, the fam­ily was greatly extended to cover 3000+ glyphs per style. The Lato 2.010 fam­ily now sup­ports 100+ Latin-​​based lan­guages, 50+ Cyrillic-​​based lan­guages as well as Greek and IPA pho­net­ics. In the process, the met­rics and kern­ing of the fam­ily have been revised and four addi­tional weights were created.
+In 2013 - 2014, the family was greatly extended to cover 3000+ glyphs per style.
+The Lato 2.010 family now supports 100+ Latin-based languages, 50+
+Cyrillic-based languages as well as Greek and IPA phonetics.
+In the process, the metrics and kerning of the family have been revised and four
+ additional weights were created.
 
 * **Copyright**
-Copyright (c) 2010-2014 by tyPoland Lukasz Dziedzic with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
+Copyright (c) 2010-2014 by tyPoland Łukasz Dziedzic
+with Reserved Font Name "Lato".
+
+Licensed under the SIL Open Font License, Version 1.1.
 
 * **Trademark**
-Lato is a trademark of tyPoland Lukasz Dziedzic.
+Lato is a trademark of tyPoland Łukasz Dziedzic.
 
 * **Vendor**
-tyPoland Lukasz Dziedzic
+tyPoland Łukasz Dziedzic
 
 * **Vendor URL**
 http://www.latofonts.com/
@@ -50,4 +61,3 @@ Software: Licenced under the MIT License (MIT)
 Fonts: Licensed under version 1.1 of the SIL Open Font License
 
   http://scripts.sil.org/OFL
-
