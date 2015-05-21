@@ -17,6 +17,9 @@ dependencies into right places
 
 ### Lato ###
 
+* **Version**
+Version 2.010
+
 * **Description**
 Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based
 designer Łukasz Dziedzic ("Lato" means "Summer" in Polish). In December 2010
@@ -43,6 +46,14 @@ tyPoland Łukasz Dziedzic
 
 * **Vendor URL**
 http://www.latofonts.com/
+
+* **Webfont SIL OFL Compliance**
+Font files in /fonts were created form newest original font - version 2.010.
+No modiffication to any used algorithms, subclassing or anything that would
+break Functional Equivalence was done to font files, thus allowing this package
+to use name Lato.
+
+Special care was taken so that EOT files maintain Functional Equivalence.
 
 
 ## Development Info ##
