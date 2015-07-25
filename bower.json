@@ -9,7 +9,7 @@
   "main": [
     "./css/lato-webfont.css",
     "./less/lato-webfont.less",
-    "./sass/lato-webfont.scss",
+    "./scss/lato-webfont.scss",
     "./fonts/*"
   ],
   "keywords": [
