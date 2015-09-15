@@ -18,7 +18,7 @@ dependencies into right places
 ### Lato ###
 
 * **Version**
-Version 2.010
+Version 2.015
 
 * **Description**
 Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based
@@ -31,9 +31,10 @@ The Lato 2.010 family now supports 100+ Latin-based languages, 50+
 Cyrillic-based languages as well as Greek and IPA phonetics.
 In the process, the metrics and kerning of the family have been revised and four
  additional weights were created.
+Lato 2.015 Implements mark positioning, which should work for most glyphs
 
 * **Copyright**
-Copyright (c) 2010-2014 by tyPoland Łukasz Dziedzic
+Copyright (c) 2010-2015 by tyPoland Łukasz Dziedzic
 with Reserved Font Name "Lato".
 
 Licensed under the SIL Open Font License, Version 1.1.
@@ -48,12 +49,10 @@ tyPoland Łukasz Dziedzic
 http://www.latofonts.com/
 
 * **Webfont SIL OFL Compliance**
-Font files in /fonts were created form newest original font - version 2.010.
+Font files in /fonts were taken directly from original font - version 2.015.
 No modiffication to any used algorithms, subclassing or anything that would
 break Functional Equivalence was done to font files, thus allowing this package
 to use name Lato.
-
-Special care was taken so that EOT files maintain Functional Equivalence.
 
 
 ## Development Info ##
