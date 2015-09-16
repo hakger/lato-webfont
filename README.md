@@ -3,6 +3,8 @@
 Lato webfont package, optimized for Bower and gulp-flatten.
 Contains font files, less, scss, and CSS.
 
+If You wish to use Latin subset, see https://github.com/hakger/latolatin-webfont
+
 ## Use ##
 
 1. Use Bower to install the lato package
